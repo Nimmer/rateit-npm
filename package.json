@@ -1,0 +1,23 @@
+{
+  "name": "rateit-npm",
+  "version": "1.0.22",
+  "description": "This package was adjusted for use by npm (source code from https://rateit.codeplex.com/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nimmer/rateit-npm.git"
+  },
+  "keywords": [
+    "rateit",
+    "npm"
+  ],
+  "author": "Copyright (c)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nimmer/rateit-npm/issues"
+  },
+  "homepage": "https://github.com/Nimmer/rateit-npm#readme"
+}
